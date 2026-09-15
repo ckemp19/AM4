@@ -1,4 +1,4 @@
-# audio
+# AM4
 Misc. files related to the Fractal Audio AM4
 
 ## DISCLAIMER
