@@ -1,5 +1,5 @@
 # audio
-Misc. files related to music &amp; audio production
+Misc. files related to the Fractal Audio AM4
 
 ## DISCLAIMER
 These files are being shared as a courtesy to others who wish to try what I've done on my own devices. By copying or downloading these files you are accepting any risk. I make no guarantees that they will work for your use case, and accept no liability for potential damage to your equipment. 
