@@ -63,4 +63,4 @@ Ignore Redundant PC	ON
 ### Removal
 If you don't want to use the configuration anymore, simply boot your MIDI Captain into USB mode as indicated above, delete the file, and restart the MC.
 
-#### Thanks to Paint Audio support and duck.ai for assistance with getting this working!
+#### Thanks to https://www.youtube.com/@ToneForgeX for the inspiration, and to Paint Audio support and duck.ai for assistance with getting this working!
